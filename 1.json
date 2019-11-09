@@ -1,0 +1,35 @@
+{
+    "biodata" : {
+        "name" : "Anggi Oktavia Aryani",
+        "age" : "20",
+        "address" : "Sawangan, Magelang,Jawa Tengah",
+        "hobbies" : ["traveling","shopping","berenang"],
+        "is_married" : false,
+        "list_school" : [
+        {
+            "key_name" : "SD N Krogowanan",
+            "year_in" : "2005",
+            "year_out" : "2011",
+            "major" : null
+        },
+        {
+            "key_name" : "SMP N 1 Sawangan",
+            "year_in" : "2011",
+            "year_out" : "2014",
+            "major" : null
+        },
+        {
+            "key_name" : "SMK N 1 Magelang",
+            "year_in" : "2014",
+            "year_out" : "2017",
+            "major" : "Teknik Komputer Jaringan"
+        },
+        ],
+        "skills" : [
+            { "skill_name": "public speaking", "level":"advanced" },
+            { "skill_name": "team work", "level":"advanced" },
+            { "skill_name": "Coding", "level":"beginner"}
+        ],
+        "interest_in_coding" : true,
+    }
+}
